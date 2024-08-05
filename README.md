@@ -1,6 +1,6 @@
 ![logo](https://github.com/sumanndass/sumanndass/blob/main/github_banner.jpg)
 # 💫 About Me:
-🔭 I’m currently working as Quality Associate<br>👯 I’m looking to collaborate with Data Lovers<br>🌱 I’m currently learning SQL, T-SQL, PowerBI, MSBI (SSIS, SSAS, SSRS), Excel, Advance Excel, Data Warehouse, Python (NumPy, Pandas, Metaplotlib, Seaborn, Plotly)<br>💬 Ask me about Data Analysis
+🔭 I’m currently working as Quality Associate<br>👯 I’m looking to collaborate with Data Lovers<br>🌱 I’m currently learning SQL, T-SQL, PowerBI, MSBI (SSIS, SSAS, SSRS), Excel, Advance Excel, Data Warehouse, Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly)<br>💬 Ask me about Data Analysis
 
 
 ## 🌐 Socials:
